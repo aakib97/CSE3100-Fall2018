@@ -1,0 +1,9 @@
+# ex11 corrections
+semi-colon at the end of if block making the else unreachable.
+If statement missing condition i/2 = 1 or i % 2 == 1.
+The data type was char, should be int.
+
+# ex12 corrections
+if n==0, result should equal. Initialize result has 1
+Factorial function missing return. Return result
+Factorial multiples with n not result

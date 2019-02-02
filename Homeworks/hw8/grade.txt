@@ -1,0 +1,15 @@
+NetID: ams14036
+Comment: Didn't push makefile. lifeMT.c doesn't compile. Not parallel
+Points: 0 out of 100
+
+
+Points breakdown: 
+
+
+Doesn't work: -15 out of: -15
+Memory errors: 0 out of: -15
+Reasonable synchronization mechanism: 0 out of: 45
+Parallel (without creating new set of threads for each cycle): 0 out of: 45
+Makefile: 0 out of: 10
+Extra credit for creativity: 0 out of: 30
+Adjustments: 0 out of: 1

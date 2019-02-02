@@ -1,0 +1,16 @@
+NetID: ams14036
+Comment: Did not commit anything
+Points: 0 out of 100
+
+
+Points breakdown: 
+
+
+Server take port: 0 out of: 9
+client take hostname: 0 out of: 10
+lls: 0 out of: 18
+size command: 0 out of: 10
+lsize: 0 out of: 10
+mget: 0 out of: 18
+Q5: 0 out of: 15
+Valgrind: 0 out of: 10

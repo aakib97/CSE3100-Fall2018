@@ -1,0 +1,3 @@
+squares.c doesn't work, and has memory errors
+
+argvcat.c works, but has invalid writes, and conditional jumps depending on uninitialized values.

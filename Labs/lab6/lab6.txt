@@ -1,0 +1,2 @@
+Don't push binaries! Doesn't work. Memory errors. You should not fork before loop. args to execvp should include cmd_editor
+score: 14 out of 100

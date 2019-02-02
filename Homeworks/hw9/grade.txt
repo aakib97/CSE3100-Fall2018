@@ -1,0 +1,16 @@
+NetID: ams14036
+Comment: NA
+Points: 0 out of 100
+
+
+Points breakdown: 
+
+
+Q1: method: 0 out of: 15
+Q1: coding: 0 out of: 15
+Q1: works: 0 out of: 10
+Q1: adjustment: 0 out of: 1
+Q2: method: 0 out of: 20
+Q2: coding: 0 out of: 20
+Q2: works: 0 out of: 20
+Q2: adjustment: 0 out of: 1

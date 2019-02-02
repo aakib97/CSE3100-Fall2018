@@ -1,0 +1,1 @@
+Powermod-r works fine, but collatz doesn't work, and has a lot of memory problems (unconditional jumps etc).

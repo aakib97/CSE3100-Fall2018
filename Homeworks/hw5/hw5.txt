@@ -1,0 +1,2 @@
+Please don't push binaries. Why does parent process exec? Also, wait_on_program won't run if exec succeeds
+score: 56 out of 100

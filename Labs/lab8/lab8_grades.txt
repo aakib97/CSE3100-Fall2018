@@ -1,0 +1,15 @@
+NetID: ams14036
+Comment: Perfect!
+Points: 100 out of 100
+
+
+Points breakdown: 
+
+
+thread_data struct: 10 out of: 10
+pthread_create: 15 out of: 15
+thread function makes sense: 50 out of: 50
+pthread join: 15 out of: 15
+works: 5 out of: 5
+no memory errors: 5 out of: 5
+Adjustments: 0 out of: 1

@@ -1,0 +1,10 @@
+# document the errors/bugs your find in squares.c
+2 bytes never freed in line 44
+
+# warnings
+In function ‘sum’: control reaches end of non-void function
+    Function does not return anything
+implicit declaration of function ‘atoi’ [-Wimplicit-function-declaration]
+implicit declaration of function ‘malloc’ [-Wimplicit-function-declaration]
+incompatible implicit declaration of built-in function ‘free’
+    Missing <stdlib.h>

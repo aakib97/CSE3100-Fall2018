@@ -1,0 +1,13 @@
+NetID: ams14036
+Comment: Error: computer 0 tries to submit a job after the max number....
+Points: 65 out of 100
+
+
+Points breakdown: 
+
+
+valgrind: 0 out of: 10
+work() outside of lock: 15 out of: 15
+passes checks: 0 out of: 10
+never any deadlock: 0 out of: 15
+good effort: 50 out of: 50
